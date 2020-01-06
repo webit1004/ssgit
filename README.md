@@ -1,2 +1,2 @@
 # ssgit
-from master
+from master and testing
